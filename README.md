@@ -14,5 +14,5 @@ PortHostScan is a fast, lightweight port and host scanner designed for network d
 ## Usage
 Execute the Script in the machine
 
-##Credits
+## Credits
 S4vitar
